@@ -36,3 +36,6 @@ terraform.rc%
 .terraform.lock.hcl
 apply.sh
 servers.tf.deploy
+secret.key
+terraform.auto.tfvars
+secret.key
